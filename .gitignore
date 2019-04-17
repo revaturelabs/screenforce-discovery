@@ -1,6 +1,25 @@
 # Compiled class file
 *.class
-
+.classpath
+.project
+*/.project
+*/servers/
+.metadata
+*.metadata
+.settings
+*.settings
+*.idea/
+*.idea/workspace*
+.recommenders
+*logs/
+*.iml
+/bin/
+/Servers/
+/target/
+*/target/
+/RemoteSystemsTempFiles/
+/External Files/
+Servers
 # Log file
 *.log
 
