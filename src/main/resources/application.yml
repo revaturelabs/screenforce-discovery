@@ -1,13 +1,13 @@
 spring:
-   application:
-      name: screenforce-discovery-server
+    application:
+        name: screenforce-discovery-server
 server:
-   port: 8761
+    port: 8761
 eureka:
     instance:
-      hostname: localhost
+        hostname: localhost
     client:
-      register-with-eureka: false
-      fetch-registry: false
+        register-with-eureka: false
+        fetch-registry: false
     server:
-       enable-self-preservation: false
+        enable-self-preservation: false
