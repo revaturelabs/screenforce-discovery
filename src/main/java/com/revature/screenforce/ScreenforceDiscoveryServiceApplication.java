@@ -1,4 +1,4 @@
-package com.revature.screenforce.screenforce_discovery;
+package com.revature.screenforce;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
