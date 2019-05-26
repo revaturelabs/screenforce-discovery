@@ -2,7 +2,7 @@ spring:
    application:
       name: screenforce-discovery-server
 server:
-   port: 8761
+   port: ${SERVER_PORT:5000}
 eureka:
     instance:
       hostname: localhost
